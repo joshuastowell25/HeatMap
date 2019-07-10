@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemDisplayApp", "SystemDisplayApp\SystemDisplayApp.csproj", "{595F0CD0-CF85-4573-A3F1-1A7651AEFA99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatMapUnitTest", "HeatMapUnitTest\HeatMapUnitTest.csproj", "{3805074F-98AD-484E-B5E2-1ED3D1782F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemTools", "SystemTools\SystemTools.csproj", "{325ACDB5-8997-4309-9164-179A5700E5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595F0CD0-CF85-4573-A3F1-1A7651AEFA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595F0CD0-CF85-4573-A3F1-1A7651AEFA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595F0CD0-CF85-4573-A3F1-1A7651AEFA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595F0CD0-CF85-4573-A3F1-1A7651AEFA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3805074F-98AD-484E-B5E2-1ED3D1782F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3805074F-98AD-484E-B5E2-1ED3D1782F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3805074F-98AD-484E-B5E2-1ED3D1782F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3805074F-98AD-484E-B5E2-1ED3D1782F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325ACDB5-8997-4309-9164-179A5700E5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325ACDB5-8997-4309-9164-179A5700E5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325ACDB5-8997-4309-9164-179A5700E5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325ACDB5-8997-4309-9164-179A5700E5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
